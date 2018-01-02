@@ -11,8 +11,6 @@ body{
     font: 14px / 28px arial;
     font-family: 'Imprima-Regular', arial;
 }
-
-
 /* Grid Settings */
 
 .container {
@@ -55,6 +53,9 @@ h3{
     padding: 5px 40px;
     letter-spacing: 2px;
     margin-bottom: 20px;
+}
+#spcat{
+    margin-top: 80px;
 }
 .menu li{
     float: left;
